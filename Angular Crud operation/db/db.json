@@ -1,0 +1,40 @@
+{
+  "restaurants": [
+    {
+      "name": "indian Story",
+      "email": "salad@test.com",
+      "address": "Nagar",
+      "id": 2
+    },
+    {
+      "name": "Indian Vegan Heat",
+      "email": "ivh@test.com",
+      "address": "Rahuri",
+      "id": 3
+    },
+    {
+      "name": "Indian Express",
+      "email": "indianexpress@test.com",
+      "address": "Shirur",
+      "id": 4
+    },
+    {
+      "name": "Roti Mojo",
+      "email": "rotimojo@test.com",
+      "address": "Shrigonda",
+      "id": 5
+    },
+    {
+      "name": "Smoking Fish",
+      "email": "smokingfish@test.com",
+      "address": "Bhingar",
+      "id": 6
+    },
+    {
+      "name": "sachin pawar",
+      "email": "sachin@test.com",
+      "address": "ahmednagar maharashtra",
+      "id": 7
+    }
+  ]
+}
